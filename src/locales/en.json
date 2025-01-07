@@ -1,0 +1,129 @@
+{
+  "app": {
+    "title": "Project Manager",
+    "loading": "Loading..."
+  },
+  "settings": {
+    "title": "Settings",
+    "theme": "Theme",
+    "themeDescription": "Choose a theme that suits your style",
+    "language": "Language",
+    "languageDescription": "Select your preferred language",
+    "preferences": "Preferences",
+    "notifications": "Enable notifications",
+    "sounds": "Enable sound effects",
+    "appearance": "Appearance",
+    "dateFormat": "Date Format",
+    "timeFormat": "Time Format"
+  },
+  "projects": {
+    "title": "Projects",
+    "new": "New Project",
+    "edit": "Edit Project",
+    "noProject": "No Project Selected",
+    "start": "Select a project or get started with a new one",
+    "deleteConfirm": "Delete Project?",
+    "deleteMessage": "Are you sure you want to delete this project? This action cannot be undone.",
+    "due": "Due Date",
+    "progress": "Progress",
+    "search": "Search projects...",
+    "sort": {
+      "title": "Sort",
+      "date": "By Date",
+      "name": "By Name",
+      "tasks": "By Tasks",
+      "progress": "By Progress"
+    },
+    "filter": {
+      "title": "Filter",
+      "all": "All",
+      "active": "Active",
+      "completed": "Completed",
+      "overdue": "Overdue",
+      "archived": "Archived"
+    },
+    "stats": {
+      "title": "Statistics",
+      "active": "Active",
+      "completed": "Completed",
+      "total": "Total",
+      "tasks": "Tasks",
+      "completedTasks": "Completed Tasks"
+    },
+    "time": {
+      "today": "Today",
+      "tomorrow": "Tomorrow",
+      "yesterday": "Yesterday",
+      "daysAgo": "{{count}} days ago",
+      "inDays": "in {{count}} days",
+      "overdue": "Overdue",
+      "dueToday": "Due today",
+      "dueTomorrow": "Due tomorrow"
+    },
+    "actions": {
+      "archive": "Archive",
+      "unarchive": "Unarchive",
+      "archiveConfirm": "Archive Project?",
+      "archiveMessage": "Are you sure you want to archive this project? Archived projects will not appear in the main list.",
+      "unarchiveConfirm": "Unarchive Project?",
+      "unarchiveMessage": "Are you sure you want to unarchive this project?"
+    },
+    "groupBy": {
+      "title": "Group By",
+      "none": "No Grouping",
+      "status": "By Status",
+      "dueDate": "By Due Date",
+      "priority": "By Priority"
+    },
+    "status": {
+      "notStarted": "Not Started",
+      "inProgress": "In Progress",
+      "completed": "Completed"
+    },
+    "dueDate": {
+      "overdue": "Overdue",
+      "today": "Today",
+      "thisWeek": "This Week",
+      "later": "Later"
+    },
+    "priority": {
+      "none": "No Priority",
+      "low": "Low",
+      "medium": "Medium",
+      "high": "High"
+    }
+  },
+  "project": {
+    "title": "Title",
+    "description": "Description",
+    "dueDate": "Due Date",
+    "deleteConfirm": "Delete Project?",
+    "deleteMessage": "Are you sure you want to delete this project? This action cannot be undone.",
+    "due": "Due Date",
+    "progress": "Progress"
+  },
+  "tasks": {
+    "title": "Tasks",
+    "new": "Add a new task...",
+    "add": "Add Task",
+    "edit": "Edit Task",
+    "delete": "Delete Task",
+    "empty": "No tasks yet"
+  },
+  "validation": {
+    "invalid": "Invalid Input",
+    "message": "Please make sure you provide a valid value for every input field."
+  },
+  "common": {
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "create": "Create",
+    "okay": "Okay",
+    "yes": "Yes",
+    "no": "No",
+    "gridView": "Grid View",
+    "listView": "List View"
+  }
+}

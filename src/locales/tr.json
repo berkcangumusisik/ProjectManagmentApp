@@ -1,0 +1,173 @@
+{
+  "app": {
+    "title": "Proje Yöneticisi",
+    "loading": "Yükleniyor..."
+  },
+  "settings": {
+    "title": "Ayarlar",
+    "theme": "Tema",
+    "themeDescription": "Tarzınıza uygun bir tema seçin",
+    "language": "Dil",
+    "languageDescription": "Tercih ettiğiniz dili seçin",
+    "preferences": "Tercihler",
+    "notifications": "Bildirimleri etkinleştir",
+    "sounds": "Ses efektlerini etkinleştir",
+    "appearance": "Görünüm",
+    "dateFormat": "Tarih Formatı",
+    "timeFormat": "Saat Formatı"
+  },
+  "projects": {
+    "title": "Projeler",
+    "new": "Yeni Proje",
+    "edit": "Projeyi Düzenle",
+    "noProject": "Proje Seçilmedi",
+    "start": "Bir proje seçin veya yeni bir projeye başlayın",
+    "deleteConfirm": "Projeyi Sil?",
+    "deleteMessage": "Bu projeyi silmek istediğinizden emin misiniz? Bu işlem geri alınamaz.",
+    "due": "Bitiş Tarihi",
+    "progress": "İlerleme",
+    "search": "Projelerde ara...",
+    "sort": {
+      "title": "Sıralama",
+      "date": "Tarihe Göre",
+      "name": "İsme Göre",
+      "tasks": "Görev Sayısına Göre",
+      "progress": "İlerlemeye Göre"
+    },
+    "filter": {
+      "title": "Filtrele",
+      "all": "Tümü",
+      "active": "Aktif",
+      "completed": "Tamamlanan",
+      "overdue": "Gecikmiş",
+      "archived": "Arşivlenmiş"
+    },
+    "stats": {
+      "title": "İstatistikler",
+      "active": "Aktif",
+      "completed": "Tamamlanan",
+      "total": "Toplam",
+      "tasks": "Görevler",
+      "completedTasks": "Tamamlanan Görevler"
+    },
+    "time": {
+      "today": "Bugün",
+      "tomorrow": "Yarın",
+      "yesterday": "Dün",
+      "daysAgo": "{{count}} gün önce",
+      "inDays": "{{count}} gün içinde",
+      "overdue": "Gecikmiş",
+      "dueToday": "Bugün son gün",
+      "dueTomorrow": "Yarın son gün"
+    },
+    "actions": {
+      "archive": "Arşivle",
+      "unarchive": "Arşivden Çıkar",
+      "archiveConfirm": "Projeyi Arşivle?",
+      "archiveMessage": "Bu projeyi arşivlemek istediğinizden emin misiniz? Arşivlenen projeler ana listede görünmeyecektir.",
+      "unarchiveConfirm": "Arşivden Çıkar?",
+      "unarchiveMessage": "Bu projeyi arşivden çıkarmak istediğinizden emin misiniz?"
+    },
+    "groupBy": {
+      "title": "Gruplandır",
+      "none": "Gruplandırma Yok",
+      "status": "Duruma Göre",
+      "dueDate": "Tarihe Göre",
+      "priority": "Önceliğe Göre"
+    },
+    "status": {
+      "notStarted": "Başlanmadı",
+      "inProgress": "Devam Ediyor",
+      "completed": "Tamamlandı"
+    },
+    "dueDate": {
+      "overdue": "Gecikmiş",
+      "today": "Bugün",
+      "thisWeek": "Bu Hafta",
+      "later": "Daha Sonra"
+    },
+    "priority": {
+      "none": "Öncelik Yok",
+      "low": "Düşük",
+      "medium": "Orta",
+      "high": "Yüksek"
+    }
+  },
+  "project": {
+    "title": "Başlık",
+    "description": "Açıklama",
+    "dueDate": "Bitiş Tarihi",
+    "created": "Oluşturulma Tarihi",
+    "modified": "Son Güncelleme",
+    "status": {
+      "title": "Durum",
+      "notStarted": "Başlanmadı",
+      "inProgress": "Devam Ediyor",
+      "completed": "Tamamlandı",
+      "onHold": "Beklemede"
+    },
+    "priority": {
+      "title": "Öncelik",
+      "low": "Düşük",
+      "medium": "Orta",
+      "high": "Yüksek"
+    }
+  },
+  "tasks": {
+    "title": "Görevler",
+    "new": "Yeni görev ekle...",
+    "add": "Görev Ekle",
+    "edit": "Görevi Düzenle",
+    "delete": "Görevi Sil",
+    "empty": "Henüz görev yok",
+    "markComplete": "Tamamlandı olarak işaretle",
+    "markIncomplete": "Tamamlanmadı olarak işaretle",
+    "filter": {
+      "all": "Tüm Görevler",
+      "active": "Aktif Görevler",
+      "completed": "Tamamlanan Görevler"
+    },
+    "sort": {
+      "title": "Sıralama",
+      "oldest": "En Eski",
+      "newest": "En Yeni",
+      "alphabetical": "Alfabetik"
+    }
+  },
+  "validation": {
+    "invalid": "Geçersiz Giriş",
+    "message": "Lütfen tüm alanları doğru şekilde doldurduğunuzdan emin olun.",
+    "required": "Bu alan zorunludur",
+    "minLength": "En az {{count}} karakter olmalıdır",
+    "maxLength": "En fazla {{count}} karakter olmalıdır",
+    "invalidDate": "Geçersiz tarih",
+    "pastDate": "Geçmiş bir tarih seçemezsiniz"
+  },
+  "common": {
+    "save": "Kaydet",
+    "cancel": "İptal",
+    "delete": "Sil",
+    "edit": "Düzenle",
+    "create": "Oluştur",
+    "update": "Güncelle",
+    "okay": "Tamam",
+    "yes": "Evet",
+    "no": "Hayır",
+    "loading": "Yükleniyor...",
+    "error": "Hata",
+    "success": "Başarılı",
+    "warning": "Uyarı",
+    "info": "Bilgi",
+    "close": "Kapat",
+    "back": "Geri",
+    "next": "İleri",
+    "search": "Ara...",
+    "filter": "Filtrele",
+    "sort": "Sırala",
+    "actions": "İşlemler",
+    "more": "Daha Fazla",
+    "less": "Daha Az",
+    "gridView": "Izgara Görünümü",
+    "listView": "Liste Görünümü"
+  }
+}
